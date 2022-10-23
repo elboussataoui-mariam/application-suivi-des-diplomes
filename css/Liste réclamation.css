@@ -1,0 +1,13 @@
+/* -------- Style du tableau --------*/
+table, td, th {  
+  margin-top: 10%;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+#liencorrige {
+  text-decoration: none;
+  color: black;
+}
+#liencorrige:hover{
+  color: lightgray;
+}
